@@ -1,0 +1,8 @@
+{
+  "Host": "0.0.0.0",
+  "Port": 44405,
+  "MaxConnections": 1000,
+  "DatabasePath": "muonline.db",
+  "TickRateMs": 50,
+  "VerboseLogging": false
+}
